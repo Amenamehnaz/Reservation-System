@@ -9,17 +9,6 @@ The project is useful for beginners to practice Java basics, collections framewo
 Features
 Login System (predefined username & password: admin / admin123)
 
-Make a Reservation
-Passenger Name
-Train Number & Auto-train Name mapping
-Class Type (Sleeper/AC)
-Date of Journey
-Source & Destination
-Unique PNR is generated automatically
-Cancel Reservation by entering PNR
-View All Bookings stored in memory
-Uses Java Collections (Map, List, HashMap)
-Tech Stack
 Language: Java
 
 Concepts Used: OOPs, Collections (Map, List), UUID for unique PNR

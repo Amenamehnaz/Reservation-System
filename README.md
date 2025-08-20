@@ -33,7 +33,9 @@ java ReservationSystem
 # Sample Login
 
 ===== Welcome to Online Reservation System =====
+
 Enter username: admin
+
 Enter password: admin123
 
 # Author

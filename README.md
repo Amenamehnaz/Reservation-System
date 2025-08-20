@@ -19,10 +19,15 @@ Concepts Used: OOPs, Collections (Map, List), UUID for unique PNR
 # How to Run
 
 Clone this repository or copy the code into a file named ReservationSystem.java.
+
 Open a terminal/command prompt.
+
 Compile the program:
+
 javac ReservationSystem.java
+
 Run the program:
+
 java ReservationSystem
 
 # Sample Login

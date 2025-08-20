@@ -8,6 +8,7 @@ The project is useful for beginners to practice Java basics, collections framewo
 
 Features
 Login System (predefined username & password: admin / admin123)
+
 Make a Reservation
 Passenger Name
 Train Number & Auto-train Name mapping
